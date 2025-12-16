@@ -1,4 +1,4 @@
-PhD student in the group of Boris Kozinsky at Harvard SEAS.
+Postdoc at Sandia National Labs, previously in the group of Boris Kozinsky at Harvard.
 
 I work on molecular dynamics for materials science, with a focus on developing fast-but-accurate machine learning potentials. In particular, I work on profiling, optimization and GPU acceleration.
 
@@ -7,4 +7,4 @@ Highlights:
 - Phoebe ([mir-group/phoebe](https://github.com/mir-group/phoebe)), a fast and Kokkos-accelerated solver Boltzmann transport code
 - Allegro ([mir-group/pair_allegro](https://github.com/mir-group/pair_allegro)), a scalable equivariant neural network potential with state-of-the-art accuracy
 
-Contact: [andersjohansson@g.harvard.edu](mailto:andersjohansson@g.harvard.edu)
+Contact: [ajohans@sandia.gov](mailto:ajohans@sandia.gov)
